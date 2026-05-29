@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Large data files
+data/*.npy
+
+# Generated outputs
+outputs/
+
+# Training logs
+sbi-logs/
+
+# Jupyter
+.jupyter/
